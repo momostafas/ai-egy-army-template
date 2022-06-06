@@ -1,0 +1,45 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 24 May 2022 09:20:16 at https://shtheme.com/demosd/dashcore/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://shtheme.com/demosd/dashcore/ -O1 "E:\Mohamed Mostafa\ai-egy-army" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:21:30	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/dashcore/about.html (from https://shtheme.com/demosd/dashcore/)
+09:21:30	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/dashcore/blog/blog-grid.html (from https://shtheme.com/demosd/dashcore/)
+09:21:36	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/dashcore/wp-content/plugins/mega_main_menu/src/css/transparent (from https://shtheme.com/demosd/dashcore/wp-content/plugins/mega_main_menu/src/css/cache.skin.css?ver=1552464739)
+09:21:36	Warning: 	Moved Permanently for https://shtheme.com/demosd/dashcore/?p=569
+09:21:36	Warning: 	File has moved from https://shtheme.com/demosd/dashcore/?p=569 to https://shtheme.com/demosd/dashcore/?page_id=569
+09:21:36	Warning: 	Moved Permanently for https://shtheme.com/demosd/dashcore/?p=628
+09:21:36	Warning: 	File has moved from https://shtheme.com/demosd/dashcore/?p=628 to https://shtheme.com/demosd/dashcore/?page_id=628
+09:21:36	Warning: 	Moved Permanently for https://shtheme.com/demosd/dashcore/?p=818
+09:21:36	Warning: 	File has moved from https://shtheme.com/demosd/dashcore/?p=818 to https://shtheme.com/demosd/dashcore/?page_id=818
+09:21:53	Warning: 	Moved Permanently for https://shtheme.com/demosd/dashcore/?p=616
+09:21:53	Warning: 	File has moved from https://shtheme.com/demosd/dashcore/?p=616 to https://shtheme.com/demosd/dashcore/?page_id=616
+09:21:54	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/dashcore/Version/ (from https://shtheme.com/demosd/dashcore/wp-content/themes/dashcore/js/swiper.js?ver=4.9.20)
+09:21:54	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/dashcore/version/ (from https://shtheme.com/demosd/dashcore/wp-content/themes/dashcore/js/swiper.js?ver=4.9.20)
+09:21:54	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/dashcore/popper.js (from https://shtheme.com/demosd/dashcore/wp-content/themes/dashcore/js/bootstrap.js?ver=4.9.20)
+09:21:54	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/dashcore/dist/ (from https://shtheme.com/demosd/dashcore/wp-content/themes/dashcore/js/aos.js?ver=4.9.20)
+09:21:54	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/dashcore/GET (from https://shtheme.com/demosd/dashcore/wp-content/themes/dashcore/js/particles.js?ver=4.9.20)
+09:21:54	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/dashcore/Error pJS - No image.src (from https://shtheme.com/demosd/dashcore/wp-content/themes/dashcore/js/particles.js?ver=4.9.20)
+09:21:54	Error: 	"Not Found" (404) at link https://shtheme.com/demosd/dashcore/admin/ (from https://shtheme.com/demosd/dashcore/wp-content/themes/dashcore/js/site.js?ver=4.9.20)
+09:22:02	Warning: 	Moved Permanently for https://shtheme.com/demosd/dashcore/?feed=rss2&p=814
+09:22:02	Warning: 	File has moved from https://shtheme.com/demosd/dashcore/?feed=rss2&p=814 to https://shtheme.com/demosd/dashcore/?attachment_id=814&feed=rss2
+09:22:02	Warning: 	Moved Permanently for https://shtheme.com/demosd/dashcore/?p=814
+09:22:02	Warning: 	File has moved from https://shtheme.com/demosd/dashcore/?p=814 to https://shtheme.com/demosd/dashcore/?attachment_id=814
+09:22:02	Warning: 	Moved Permanently for https://shtheme.com/demosd/dashcore/?feed=rss2&p=816
+09:22:02	Warning: 	File has moved from https://shtheme.com/demosd/dashcore/?feed=rss2&p=816 to https://shtheme.com/demosd/dashcore/?attachment_id=816&feed=rss2
+09:22:02	Warning: 	Moved Permanently for https://shtheme.com/demosd/dashcore/?p=816
+09:22:02	Warning: 	File has moved from https://shtheme.com/demosd/dashcore/?p=816 to https://shtheme.com/demosd/dashcore/?attachment_id=816
+09:22:02	Warning: 	Moved Permanently for https://shtheme.com/demosd/dashcore/?feed=rss2&p=815
+09:22:02	Warning: 	File has moved from https://shtheme.com/demosd/dashcore/?feed=rss2&p=815 to https://shtheme.com/demosd/dashcore/?attachment_id=815&feed=rss2
+09:22:05	Warning: 	Moved Permanently for https://shtheme.com/demosd/dashcore/?p=815
+09:22:05	Warning: 	File has moved from https://shtheme.com/demosd/dashcore/?p=815 to https://shtheme.com/demosd/dashcore/?attachment_id=815
+09:22:05	Warning: 	Moved Permanently for https://shtheme.com/demosd/dashcore/?feed=rss2&p=813
+09:22:05	Warning: 	File has moved from https://shtheme.com/demosd/dashcore/?feed=rss2&p=813 to https://shtheme.com/demosd/dashcore/?attachment_id=813&feed=rss2
+09:22:05	Warning: 	Moved Permanently for https://shtheme.com/demosd/dashcore/?p=813
+09:22:05	Warning: 	File has moved from https://shtheme.com/demosd/dashcore/?p=813 to https://shtheme.com/demosd/dashcore/?attachment_id=813
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 52 seconds : 341 links scanned, 318 files written (12853856 bytes overall) [5564228 bytes received at 49680 bytes/sec], 10422394 bytes transferred using HTTP compression in 232 files, ratio 28%, 11.5 requests per connection
+(10 errors, 24 warnings, 0 messages)
